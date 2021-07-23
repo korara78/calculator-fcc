@@ -104,7 +104,7 @@ class App extends React.Component {
   }
   
   render() {
-    const { currentNumber, calc } = this.state;
+    const { calc } = this.state;
     
     return (
 		// display element to display values based on {calc} inputted by user
