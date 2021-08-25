@@ -1,8 +1,10 @@
-# Calculator App
+# Javascript Calculator App
 
 ## Overview
 
-A calculator 
+A calculator app with variables 'calc' and 'lastPressed' that have access to theApp's state. When the equals button is pressed the app's eval() function will receive the variable 'calc' as an argument to be set to state. In addition there are clickable button elements representing numbers, operators, as well as an All Clear button to reset the numeric display back to 0.   
+
+Based on a Class Function Component.
 
 Based on the Freecodecamp.org projects towards the Front End Development Libraries Certification.
 
